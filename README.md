@@ -49,6 +49,7 @@ https://www.kaggle.com/datasets/arashnic/covid19-fake-news
 2.
 2-1. Twitter 반응 속 음모론을 분석할 때는 DB 속 논문에 대한 Twitter 반응 Text를 대상으로 위의 NLP 모델을 적용합니다. 
      그러면 Preprint와 Peer-Reviewed 중 음모론 조장에 더 취약한 논문의 종류가 무엇인지 등을 알 수 있을 것입니다.
+     
 2-2. 논문 속 음모론을 분석할 때는 DB 속 논문의 Abstract를 대상으로 위의 NLP 모델을 적용합니다.
      그러면 Preprint와 Peer-Reviewed 중 음모론 조장에 더 취약한 논문의 종류가 무엇인지 등을 알 수 있을 것입니다.
    
