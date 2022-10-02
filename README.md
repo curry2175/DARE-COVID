@@ -18,6 +18,7 @@ Preprint 장단점 평가하기.R
 나머지는 데이터가 들어있는 대용량 RDS 파일입니다.
 
 확인해야되는 것은
+
 A 장점
 1. Submission to Publication 기간에 따른 논문 수
 2. 저저와 논문 이용자(Twitter user로 판단)의 Heterogeneity(Demographic, Geographic)
