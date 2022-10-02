@@ -5,6 +5,7 @@ DB 만들기
 Preprint DB 만드는 방법.R
 Peer Review DB 만드는 방법.R
 를 읽으시면 될 것 같습니다!
+제가 저번에 Twitter 본문을 웹스크래핑하면서 미처 고려하지 못한 점이 있어 첫 100개만 가져온 것 같습니다. 이후 다시 돌릴 때 수정하겠습니다
 나머지는 데이터가 들어있는 대용량 RDS 파일입니다. 
 
 
@@ -23,11 +24,12 @@ A 장점
 1. Submission to Publication 기간에 따른 논문 수
 2. 저저와 논문 이용자(Twitter user로 판단)의 Heterogeneity(Demographic, Geographic)
 3. Preprint와 Peer Reviewed에서 초기 연구자들의 비율
+4. 일반 이용자들에게 더 친숙하게 와닿았는지(Twitter 반응에 대한 Sentimental Analysis를 통해서)
 
 B 단점
 1. 신뢰도 비교(rcrossref 그리고 철회된 논문 속 Preprint와 Peer Reviewed의 비율 비교( https://retractionwatch.com/retracted-coronavirus-covid-19-papers/ ) )
 2. 방법 도용 등에 대한 우려로 인한 이용률의 저조
-3. 음모론에 취약
+3. 음모론에 취약(아래 것과 연관됨)
 
 
 
