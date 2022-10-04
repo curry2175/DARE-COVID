@@ -40,7 +40,9 @@ B 단점
 kaggle과 GitHub을 참고해서 작성한 코드가 있지만 따로 링크를 올리는 게 나은 것 같습니다.
 
 https://github.com/KangDu-9/Fake-news-detection-NLP/blob/main/NLP%20code.R
+
 https://www.kaggle.com/code/rtatman/nlp-in-r-topic-modelling
+
 https://www.kaggle.com/datasets/arashnic/covid19-fake-news
 
 
