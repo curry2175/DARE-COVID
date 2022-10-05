@@ -74,13 +74,14 @@ https://www.r-bloggers.com/2021/05/sentiment-analysis-in-r-3/
 
 B 단점
 1. 신뢰도 비교(rcrossref(Citation Network) 그리고 철회된 논문 속 Preprint와 Peer Reviewed의 비율 비교( https://retractionwatch.com/retracted-coronavirus-covid-19-papers/ ) )
+
+교수님께서 이전에, 더 활발히 활동하는 저자들이 더 많은 Retracted 논문을 냈는지 분석하면 좋겠다고 말씀하셨습니다. Retraction Watch에서 철회된 논문의 Text는 얻을 수는 없지만, Jounral, Paper Type, Author에 대한 내용을 정리하면 이를 할 수 있을 것 같습니다.
+
 2. 방법 도용 등에 대한 우려로 인한 이용률의 저조
 3. 음모론에 취약(아래 것과 연관됨)
-
-
+(교수님께서 이전에, 더 활발히 활동하는 저자들이 더 많은 음모론을 조장했는지, 어떤 저자들이 음모론을 더 조장했는지 분석하면 좋겠다고 말씀하셨습니다.)
 
 음모론 분석하기
-
 kaggle과 GitHub을 참고해서 작성한 코드가 있지만 따로 링크를 올리는 게 나은 것 같습니다.
 
 https://github.com/KangDu-9/Fake-news-detection-NLP/blob/main/NLP%20code.R
@@ -100,4 +101,6 @@ https://www.kaggle.com/datasets/arashnic/covid19-fake-news
      
 2-2. 논문 속 음모론을 분석할 때는 DB 속 논문의 Abstract를 대상으로 위의 NLP 모델을 적용합니다.
      그러면 Preprint와 Peer-Reviewed 중 음모론 조장에 더 취약한 논문의 종류가 무엇인지 등을 알 수 있을 것입니다.
+     
+     
    
