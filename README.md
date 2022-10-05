@@ -27,6 +27,8 @@ https://pubmed.ncbi.nlm.nih.gov/33735591/
 
 https://unlockingresearch-blog.lib.cam.ac.uk/?p=1872
 
+https://link.springer.com/article/10.1007/s11192-017-2309-y#Fn1
+
 2. 저저와 논문 이용자(Twitter user로 판단)의 Heterogeneity(Demographic, Geographic)
 
 https://s4be.cochrane.org/blog/2018/11/29/what-is-heterogeneity/
