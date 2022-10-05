@@ -22,19 +22,26 @@ Preprint 장단점 평가하기.R
 
 A 장점
 1. Submission to Publication 기간에 따른 논문 수
+
 https://pubmed.ncbi.nlm.nih.gov/33735591/
+
 https://unlockingresearch-blog.lib.cam.ac.uk/?p=1872
 
 2. 저저와 논문 이용자(Twitter user로 판단)의 Heterogeneity(Demographic, Geographic)
+
 https://s4be.cochrane.org/blog/2018/11/29/what-is-heterogeneity/
+
 https://statisticsbyjim.com/basics/heterogeneity/
+
 https://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm
+
 https://www.statisticshowto.com/heterogeneity/
 
 3. Preprint와 Peer Reviewed에서 초기 연구자들의 비율
 
 
 4. 일반 이용자들에게 더 친숙하게 와닿았는지(Twitter 반응에 대한 Sentimental Analysis를 통해서)
+
 https://www.r-bloggers.com/2021/05/sentiment-analysis-in-r-3/
 
 
