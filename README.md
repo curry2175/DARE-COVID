@@ -21,13 +21,17 @@ Preprint 장단점 평가하기.R
 확인해야되는 것은
 
 A 장점
-1. Submission to Publication 기간에 따른 논문 수
+1. Submission to Publication("Editorial Handling Time") 기간에 따른 논문 수
 
-https://pubmed.ncbi.nlm.nih.gov/33735591/
+Submitted -> Accepted -> Published 를 Proquests.com 에서 웹스크래핑을 통해 수집하여 Editorial Handling Time을 구하고 이후 분석을 수행한다.
 
-https://unlockingresearch-blog.lib.cam.ac.uk/?p=1872
+(Proquest에서 " ~ "로 전체 검색하여 스크래핑)
 
-https://link.springer.com/article/10.1007/s11192-017-2309-y#Fn1
+https://pubmed.ncbi.nlm.nih.gov/33735591/ : Submission to Publication 에 대한 Systematic Review
+
+https://unlockingresearch-blog.lib.cam.ac.uk/?p=1872 : Submission to Publication과 여러 요인들의 상관관계를 조사한 논문으로, 여기서 논문의 Quality를 평가한 공식(Downloads 횟수, Citation Count 종합해서)을 활용할 수 있을 듯
+
+https://link.springer.com/article/10.1007/s11192-017-2309-y#Fn1 : 논문의 submitted, accepted, published version에 관한 내용
 
 2. 저저와 논문 이용자(Twitter user로 판단)의 Heterogeneity(Demographic, Geographic)
 
