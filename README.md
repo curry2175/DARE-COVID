@@ -41,6 +41,8 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1155
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7445182/
 
+https://qz.com/2116375/covid-has-deepened-the-wests-monopoly-of-science-publishing/
+
 3. Preprint와 Peer Reviewed에서 초기 연구자들의 비율
 
 
