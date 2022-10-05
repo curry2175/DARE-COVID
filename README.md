@@ -35,13 +35,11 @@ https://link.springer.com/article/10.1007/s11192-017-2309-y#Fn1 : 논문의 subm
 
 2. 저저와 논문 이용자(Twitter user로 판단)의 Heterogeneity(Demographic, Geographic)
 
-https://s4be.cochrane.org/blog/2018/11/29/what-is-heterogeneity/
+https://www.nature.com/articles/d41586-022-00426-7 
 
-https://statisticsbyjim.com/basics/heterogeneity/
+https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1155
 
-https://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm
-
-https://www.statisticshowto.com/heterogeneity/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7445182/
 
 3. Preprint와 Peer Reviewed에서 초기 연구자들의 비율
 
